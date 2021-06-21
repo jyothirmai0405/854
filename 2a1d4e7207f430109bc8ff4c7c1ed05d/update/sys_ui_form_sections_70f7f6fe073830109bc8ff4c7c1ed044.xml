@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="70f7f6fe073830109bc8ff4c7c1ed044" sys_domain="global" table="x_549729_hello_wor_demo" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-21 08:46:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0f7f6fe073830109bc8ff4c7c1ed047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_549729_hello_wor_demo" name="x_549729_hello_wor_demo" sys_domain="global" view="a6c776fe073830109bc8ff4c7c1ed016">70f7f6fe073830109bc8ff4c7c1ed044</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_549729_hello_wor_demo" sys_domain="global" view="a6c776fe073830109bc8ff4c7c1ed016">a6c776fe073830109bc8ff4c7c1ed01a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-21 08:46:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-21 08:46:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bcf7f6fe073830109bc8ff4c7c1ed047</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_549729_hello_wor_demo" name="x_549729_hello_wor_demo" sys_domain="global" view="a6c776fe073830109bc8ff4c7c1ed016">70f7f6fe073830109bc8ff4c7c1ed044</sys_ui_form>
+            <sys_ui_section caption="Logo" display_value="Logo" name="x_549729_hello_wor_demo" sys_domain="global" view="a6c776fe073830109bc8ff4c7c1ed016">30f7f6fe073830109bc8ff4c7c1ed043</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-21 08:46:00</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_549729_hello_wor_demo</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-21 08:45:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70f7f6fe073830109bc8ff4c7c1ed044</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_549729_hello_wor_demo</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hello World" source="x_549729_hello_wor">2a1d4e7207f430109bc8ff4c7c1ed05d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hello World">2a1d4e7207f430109bc8ff4c7c1ed05d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_70f7f6fe073830109bc8ff4c7c1ed044</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-21 08:45:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="demoview1" name="demoview1">a6c776fe073830109bc8ff4c7c1ed016</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
